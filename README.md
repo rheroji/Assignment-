@@ -27,21 +27,6 @@ Provide business recommendations based on data insights.
 6. Organizing the GitHub Repository
 Structure the repository as follows:
 
-lua
-Copy code
-|-- README.md
-|-- Data/
-|   |-- UserDetails.csv
-|   |-- CookingSessions.csv
-|   |-- OrderDetails.csv
-|-- Analysis/
-|   |-- data_cleaning.ipynb
-|   |-- data_analysis.ipynb
-|   |-- visualizations.ipynb
-|-- Report/
-|   |-- findings_report.pdf
-|-- LICENSE
-
 # User Behavior and Order Analysis
 
 ## Overview
